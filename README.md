@@ -10,9 +10,8 @@ uses:
 - Alarm Manager and Broadcast Receivers
 - Notifications
 
-![](/screenshots/1.jpg?raw=true "List of tasks" = 120x240) 
-![](/screenshots/2.jpg?raw=true "Picking date"  = 120x240)
-![](/screenshots/3.jpg?raw=true "Picking time"  = 120x240)
+<img src="./screenshots/1.jpg" width="240" height="480">    <img src="./screenshots/2.jpg" width="240" height="480">    <img src="./screenshots/3.jpg" width="240" height="480">
+
 
 
 
