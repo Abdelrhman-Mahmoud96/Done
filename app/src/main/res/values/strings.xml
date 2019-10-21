@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Done</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_array_key"> colors </string>
+
+    <string name="redLabel">Red</string>
+    <string name="blackLabel">Black</string>
+    <string name="blueLabel">Blue</string>
+    <string name="greenLabel">Green</string>
+
+    <string name="redValue">Red</string>
+    <string name="blackValue">Black</string>
+    <string name="blueValue">Blue</string>
+    <string name="greenValue">Green</string>
+
+</resources>

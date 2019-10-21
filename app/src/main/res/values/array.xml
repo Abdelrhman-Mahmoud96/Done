@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="entry_labels">
+        <item name ="@string/redLabel">Red</item>
+        <item name ="@string/blackLabel">Black</item>
+        <item name ="@string/blueLabel">Blue</item>
+        <item name ="@string/greenLabel">Green</item>
+    </array>
+
+    <array name="entry_values">
+        <item name ="@string/redValue">Red</item>
+        <item name ="@string/blackValue">Black</item>
+        <item name ="@string/blueValue">Blue</item>
+        <item name ="@string/greenValue">Green</item>
+    </array>
+
+</resources>

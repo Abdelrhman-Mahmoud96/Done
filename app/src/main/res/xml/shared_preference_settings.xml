@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:title="Text Color :"
+        android:key="@string/color_array_key"
+        android:entries="@array/entry_labels"
+        android:entryValues="@array/entry_values"
+        android:defaultValue="@string/blackValue"
+        android:summary="%s">
+
+    </ListPreference>
+
+</PreferenceScreen>
