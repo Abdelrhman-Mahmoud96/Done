@@ -9,3 +9,4 @@ uses:
 - services
 - Alarm Manager and Broadcast Receivers
 - Notifications
+![](/screenshots/1.jpg?raw=true "List of tasks")
