@@ -9,4 +9,3 @@ uses:
 - services
 - Alarm Manager and Broadcast Receivers
 - Notifications
-file:///C:/Users/DELL/Pictures/suicide%20squad.jpg
