@@ -4,7 +4,7 @@ A Todo app that let the user decide the day and time for his task and sending hi
 uses:
 - ROOM database
 - View Models
-- Excuoters
+- Executors
 - LiveData
 - services
 - Alarm Manager and Broadcast Receivers
